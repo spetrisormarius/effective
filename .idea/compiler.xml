@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="item28" />
+        <module name="item29" />
+        <module name="item30" />
+        <module name="item31" />
+        <module name="item32" />
+        <module name="item33" />
+        <module name="item34" />
+        <module name="item35" />
+        <module name="item36" />
+        <module name="item37" />
+        <module name="item38" />
+        <module name="item39" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="effective" target="1.8" />
+      <module name="item1" target="1.8" />
+      <module name="item27" target="1.5" />
+      <module name="item28" target="1.8" />
+      <module name="item29" target="1.8" />
+      <module name="item30" target="1.8" />
+      <module name="item31" target="1.8" />
+      <module name="item32" target="1.8" />
+      <module name="item33" target="1.8" />
+      <module name="item34" target="1.8" />
+      <module name="item35" target="1.8" />
+      <module name="item36" target="1.8" />
+      <module name="item37" target="1.8" />
+      <module name="item38" target="1.8" />
+      <module name="item39" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

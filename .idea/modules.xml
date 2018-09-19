@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/effective.iml" filepath="$PROJECT_DIR$/effective.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter2/item1/item1.iml" filepath="$PROJECT_DIR$/src/chapter2/item1/item1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter5/item27/item27.iml" filepath="$PROJECT_DIR$/src/chapter5/item27/item27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter5/item28/item28.iml" filepath="$PROJECT_DIR$/src/chapter5/item28/item28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter5/item29/item29.iml" filepath="$PROJECT_DIR$/src/chapter5/item29/item29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter5/item30/item30.iml" filepath="$PROJECT_DIR$/src/chapter5/item30/item30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter5/item31/item31.iml" filepath="$PROJECT_DIR$/src/chapter5/item31/item31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter5/item32/item32.iml" filepath="$PROJECT_DIR$/src/chapter5/item32/item32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter5/item33/item33.iml" filepath="$PROJECT_DIR$/src/chapter5/item33/item33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter6/item34/item34.iml" filepath="$PROJECT_DIR$/src/chapter6/item34/item34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter6/item35/item35.iml" filepath="$PROJECT_DIR$/src/chapter6/item35/item35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter6/item36/item36.iml" filepath="$PROJECT_DIR$/src/chapter6/item36/item36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter6/item37/item37.iml" filepath="$PROJECT_DIR$/src/chapter6/item37/item37.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter6/item38/item38.iml" filepath="$PROJECT_DIR$/src/chapter6/item38/item38.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/chapter6/item39/item39.iml" filepath="$PROJECT_DIR$/src/chapter6/item39/item39.iml" />
+    </modules>
+  </component>
+</project>
